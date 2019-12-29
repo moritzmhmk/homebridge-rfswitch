@@ -1,6 +1,6 @@
 {
   "name": "homebridge-rfswitch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "control RF outlets with homebridge",
   "main": "index.js",
   "scripts": {
@@ -35,6 +35,6 @@
   },
   "homepage": "https://github.com/moritzmhmk/homebridge-rfswitch#readme",
   "dependencies": {
-    "rfswitch": "0.0.1"
+    "rfswitch": "0.0.2"
   }
 }
